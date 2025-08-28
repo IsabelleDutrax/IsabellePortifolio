@@ -1,18 +1,22 @@
-# IsabellePortifolio
-Portfólio Isabelle
-Este portfólio foi desenvolvido como parte da disciplina de Ferramentas de Desenvolvimento Web.
+# Portfólio Isabelle
+
+Este portfólio foi desenvolvido como parte da disciplina de **Ferramentas de Desenvolvimento Web**.
 
 O projeto foi criado com o objetivo de aplicar e demonstrar os conhecimentos adquiridos em sala de aula sobre:
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-HTML
+---
 
-CSS
+### Acessar o Portfólio
 
-JavaScript
-
-Acessar o Portfólio
 Você pode acessar o portfólio completo através do seguinte link:
-https://isabelledutrax.github.io/IsabellePortifolio/
 
-Próximos Passos
-Este projeto será a base para futuros desenvolvimentos e melhorias.
+[https://isabelledutrax.github.io/IsabellePortifolio/](https://isabelledutrax.github.io/IsabellePortifolio/)
+
+---
+
+### Próximos Passos
+
+Este projeto servirá como base para futuros desenvolvimentos e melhorias.
